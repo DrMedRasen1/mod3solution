@@ -1,3 +1,11 @@
-<style> {
-	background-color: whitesmoke;
+*{
+	box-sizing: border-box;
+}
+
+
+#header-nav{
+
+background-color: #333;
+border-radius: 0;
+padding: 0;
 }
